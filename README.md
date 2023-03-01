@@ -1,1 +1,1 @@
-# GerganaKraeva-RandomSentanceGeneratorByGergana
+# Game3-RandomSentanceGeneratorByGergana
